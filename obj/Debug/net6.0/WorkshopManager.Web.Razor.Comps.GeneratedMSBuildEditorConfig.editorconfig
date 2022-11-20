@@ -1,0 +1,25 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = WorkshopManager.Web.Razor.Comps
+build_property.RootNamespace = WorkshopManager.Web.Razor.Comps
+build_property.ProjectDir = D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Web.Razor.Comps\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Projects\Personal\Anter\WorkshopManager\Solution\WorkshopManager\WorkshopManager.Web.Razor.Comps
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Projects/Personal/Anter/WorkshopManager/Solution/WorkshopManager/WorkshopManager.Web.Razor.Comps/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/Personal/Anter/WorkshopManager/Solution/WorkshopManager/WorkshopManager.Web.Razor.Comps/Shared/PageLoader.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFBhZ2VMb2FkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rdb43cvwtd
